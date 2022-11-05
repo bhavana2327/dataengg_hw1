@@ -1,7 +1,7 @@
 # Data Engineering homework 1
 
 This repo contains the required files to run the modification of code provided in class. 
-To protect the key, it is stored in an external file which is not visible to anyone accessing the code. An added security feature could be encrypting the key. For the scope of this homework, that is not done here.
+To protect the key, it is stored in an external file which is not visible to anyone accessing the code. An added security feature could be encrypting text file which contains the key. For the scope of this homework, that is not done here.
 
 Due to unavailibality of a proper key, the code returns None value in the error
 
